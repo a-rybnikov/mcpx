@@ -1,0 +1,4 @@
+# Permissionless funding — no platform, no KYC.
+# Send USDC (or any token) on Base / any EVM chain to:
+#   0x457D44F51B6787aC441d2596248271631Cc6F6E6
+custom: ["https://basescan.org/address/0x457D44F51B6787aC441d2596248271631Cc6F6E6"]
